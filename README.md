@@ -35,3 +35,9 @@ Input:
 LRRMMLRRML
 Output:
 4 2 West
+
+## İf you see Error in MarsRover.Test project
+You must right click on solution and click 'Restore nuget packages' and close the visual studio.
+Open the file that the project is in and show hidden files in view tab.
+Delete .vs file and open project again. Thank you.
+
